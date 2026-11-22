@@ -30,7 +30,7 @@ export const portfolioData = {
   profile: {
     name: 'João Vitor Henrique Campos',
     role: 'Desenvolvedor Back-end & Full-Stack',
-    bio: 'Faço APIs em Java e Spring Boot, modelo bancos relacionais e geoespaciais e construo as telas web e mobile que usam tudo isso. Estudo Ciência da Computação e trabalho com Arduino e automação na rede municipal de ensino do Paulista.',
+    bio: 'Faço APIs em Java e Spring Boot, modelo bancos relacionais e geoespaciais e construo as telas web e mobile que usam tudo isso. Estudo Ciência da Computação e trabalho com Arduino e automação na rede municipal de ensino do Paulist.',
     location: 'Recife, PE',
     availability: 'Disponível para oportunidades',
     workMode: 'Presencial, Remoto ou Híbrido',
